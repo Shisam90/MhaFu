@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">mhafu</string>
+    <string name="facebook_app_id">User123</string>
+               <string name="fb_login_protocol_scheme">fbUser123</string>
+</resources>

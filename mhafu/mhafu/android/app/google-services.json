@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1069789379278",
+    "firebase_url": "https://mhafu-a5ea5-default-rtdb.firebaseio.com",
+    "project_id": "mhafu-a5ea5",
+    "storage_bucket": "mhafu-a5ea5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069789379278:android:151736d4f4cf637302ae9f",
+        "android_client_info": {
+          "package_name": "mhafu.co"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069789379278-4ra2rtpih1fdlfp4tpr0e69umll19jpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mhafu.co",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1069789379278-t99810h5vneumlk033fgim5gqekht03j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5IVHgMAye7OE9BWTWyptLZ-dn9yfLLrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069789379278-10r0lt1ijv2aakpp62gidn76tnr0brq4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1069789379278-q9qcb1o21ai9t30mc9tn1e2qi3m12g37.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mhafu.co"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

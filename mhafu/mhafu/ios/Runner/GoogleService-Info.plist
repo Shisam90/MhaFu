@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1069789379278-q9qcb1o21ai9t30mc9tn1e2qi3m12g37.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1069789379278-q9qcb1o21ai9t30mc9tn1e2qi3m12g37</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1069789379278-4ra2rtpih1fdlfp4tpr0e69umll19jpg.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAH_ODcVPNxPu2Vva001EFL3j3qmesdVHA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1069789379278</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>mhafu.co</string>
+	<key>PROJECT_ID</key>
+	<string>mhafu-a5ea5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mhafu-a5ea5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1069789379278:ios:c28d838b86e42a8202ae9f</string>
+	<key>DATABASE_URL</key>
+	<string>https://mhafu-a5ea5-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
